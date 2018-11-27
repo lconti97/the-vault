@@ -6,7 +6,7 @@ Cleanse each of three plates three times by bringing a Taken Essence Orb with th
 ## Preparation
 Unlike many of the other encounters, there is no single boss in The Vault, so there is no real need to have any particular class combination. Supers that deal high damage in a short time might be helpful for the Might of Rivens and Eye of Rivens.
 
-A shotgun like the Ikelos SG may be helpful for dealing with the powerful weapons, as would Sleeper Simulant. Encounters are mostly close-quarters, making Whisper of the Worm not at its best.
+A shotgun like the Ikelos SG may be helpful for dealing with the powerful enemies, as would Sleeper Simulant. Encounters are mostly close-quarters, making Whisper of the Worm not at its best.
 
 ## Locations
 Upon entering the encounter room, you’ll first see a large sphere in the center of the chamber. This is surrounded by three pressure plates built into the ground. Each plate is adjacent to a side chamber. One of them has a large rock in the center, another has a tree in its center, and the last has stairs descending to the center of the side chamber. They are commonly referred to as rock, tree (or forest), and stairs, respectively. Each of these side chambers has a tunnel that connects it to each of the other two side chambers.
@@ -26,11 +26,11 @@ One or two plates will need to be cleansed by someone carrying a Taken Essence o
 
 ![symbols](https://github.com/lconti97/the-vault/raw/master/image2.png "symbols")
 
-##### A possible set of symbols, as viewed from one of the plates
+##### A possible set of symbols as viewed from one of the plates
 
 Guardians on the plates need to communicate among themselves to figure out which plates have matching symbols. 
 
-This part is easiest explained as an example. You and two other guardians are standing on the plates, and you see the symbols shown in the picture above. One of the other guardians tells you that the middle symbol in the set of symbols they see looks like a dragon breathing fire to the left. You see that you also have that symbol--it’s the __leftmost one__ in your set of three. This means that your plate needs to be cleansed by someone carrying a Taken Essence with the __penumbra__ buff. If the dragon breathing fire to the left had instead been the __rightmost symbol__ in your set of three, then your plate would need to be cleansed by someone with the __antumbra__ buff. If you didn’t see that symbol at all, that would mean that the third guardian on the plate has the matching symbol in their set. 
+This part is easiest explained as an example. You and two other guardians are standing on the plates, and you see the symbols shown in the picture above. One of the other guardians tells you that the middle symbol in the set of symbols they see looks like a dragon breathing fire to the left. You see that you also have that symbol--it’s the __leftmost one__ in your set of three. This means that __your plate__ needs to be cleansed by someone carrying a Taken Essence with the __penumbra__ buff. If the dragon breathing fire to the left had instead been the __rightmost symbol__ in your set of three, then __your plate__ would need to be cleansed by someone with the __antumbra__ buff. If you didn’t see that symbol at all, that would mean that the third guardian on the plate has the matching symbol in their set. 
 
 ![symbols](https://github.com/lconti97/the-vault/raw/master/image1.png "symbols")
 ##### The possible symbols and sample callouts.
@@ -69,9 +69,9 @@ __The guardian with the Orb__ needs to listen to their teammates to learn which 
 Once they are standing on that plate, __they press their grenade button__ while holding the orb to cleanse it. If they correctly matched the buff to the plate, the pillar of dark energy over the plate will disappear. Otherwise, the guardian will die. The number next to the antumbra or penumbra will also increase over time while holding the orb. __If your buff reaches 10 stacks, you die.__ 
 
 ### Strategy
-The guardian with the orb should shoot the Taken Phalanx in the tunnel with the orb’s primary fire. Otherwise, the Phalanx may launch them against a wall and kill them.
-Have at least one guardian assigned to look for and kill a Might of Riven at each plate. 
-Establish a way to communicate with your team about which tunnel the guardian with the orb needs to take. Either establish a point of reference and use left and right, or have the guardian with the orb memorize which tunnels lead to which side chamber, then just say which chamber is open.
+* The guardian with the orb should shoot the Taken Phalanx in the tunnel with the orb’s primary fire. Otherwise, the Phalanx may launch them against a wall and kill them.
+* Have at least one guardian assigned to look for and kill a Might of Riven at each plate. 
+* Establish a way to communicate with your team about which tunnel the guardian with the orb needs to take. Either establish a point of reference and use left and right, or have the guardian with the orb memorize which tunnels lead to which side chamber, then just say which chamber is open.
 
 ## The Rest of the Encounter
 
