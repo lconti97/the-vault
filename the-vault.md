@@ -21,8 +21,11 @@ Three guardians stand on the three different plates.
 
 ### Objective
 Figure out how each plate needs to be cleansed in the next phase. 
-Mechanics
+
+### Mechanics
 One or two plates will need to be cleansed by someone carrying a Taken Essence orb with the “Taken Essence Antumbra” buff (we’ll call it “antubmra”), while the other(s) will need to be cleansed by someone with the “Taken Essence Pentumbra” buff (“penumbra”). While each of the three plates has a guardian standing on it, each guardian on a plate will see a set of three different symbols on the spherical console in the center. 
+
+![symbols](https://github.com/lconti97/the-vault/raw/master/image2.png "symbols")
 
 A possible set of symbols, as viewed from one of the plates
 
